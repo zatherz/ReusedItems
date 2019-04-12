@@ -1,0 +1,6 @@
+id: reused_items
+name: Reused Items
+version: 0.1
+author: Zatherz
+description: A mod that brings back some unused (but still existing in the code) guns and items.
+dll: "ReusedItems.dll"
